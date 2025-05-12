@@ -1,0 +1,6 @@
+train: css-data\train\images
+val: css-data\valid\images
+test: css-data\test\images
+
+nc: 10  # 类别数量
+names: ['Hardhat','Mask','NO-Hardhat','NO-mask','NO-Safety Vest','Person','Safety Cone','Safety Vest','machinery','vehicle']
